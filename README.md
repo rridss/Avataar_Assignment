@@ -5,8 +5,8 @@
 - [Introduction](#introduction)
 - [Implementation](#implementation)
 - [Image uploaded by user](#image_uploaded_by_user)
-- [Object_segmented](#Object_segmented)
-- [Object's position changed](#Object's_position_changed)
+- [Object_segmented](#object_segmented)
+- [Object's position changed](#object's_position_changed)
 
 ## Introduction
 This project focuses on interactive object segmentation and manipulation using the Segment Anything Model (SAM). The core objective is to enable users to upload images, segment specific objects, and perform transformations like moving or manipulating the segmented object. SAM, developed by Meta AI, is a state-of-the-art model for object segmentation, capable of identifying various objects in an image without specific annotations.
